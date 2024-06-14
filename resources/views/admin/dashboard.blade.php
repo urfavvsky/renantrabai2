@@ -10,7 +10,7 @@
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900">
                     {{ __("Bem vindo(a)!") }}
-                    <p><a href="{{ route('admin/products')}}" class="btn btn-primary">Produtos</a></p>
+                   
                 </div>
             </div>
         </div>
